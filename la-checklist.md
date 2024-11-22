@@ -6,8 +6,45 @@ description: En construction
 
 Tous nos produits doivent suivre ces exigences :
 
+<<<<<<< HEAD
+* [ ] Processus
+  * [ ] passage par le comité produit (validation des choix techniques et d'architecture)
+  * [ ] identification et suivi des indicateurs de réussite
+  * [ ] respect du cycle de vie du produit
+  * [ ] communs numériques : évaluer les opportunités pour chaque produit ou service
+* [ ] Code
+  * [ ] respect du cadre de cohérence technique (en cours de rédaction)
+  * [ ] publication du code source (lien footer)
+  * [ ] pratiques de dev : revues de code, tests
+  * [ ] application cloud native
+* [ ] Accessibilité
+  * [ ] 100% RGAA
+* [ ] Recherche Utilisateur
+  * [ ] Score d'utilisabilité (F-SUS) supérieur à 65 (≥B)
+  * [ ] Mise à disposition de la recherche exploratoire (entretiens+observation) dans le cas d'une refonte 
+  * [ ] Réalisation de tests utilisateurs réguliers en amélioration continue (cohorte de 10)
+* [ ] Design
+  * [ ] hébergement des designs sur le Figma de la DNUM
+  * [ ] respect du cadre de cohérence de design (en cours de rédaction)
+* [ ] Données
+  * [ ] publication de données sur data.gouv.fr
+  * [ ] mise en place de solution analytique (Matomo)
+  * [ ] publication des analytiques (lien footer)
+* [ ] Hébergement
+  * [ ] Cloud first ([détails](Hebergement/Cloud.md))
+* [ ] DevSecOps
+  * [ ] intégration continue ([détails](DevSecOps/CI.md))
+  * [ ] déploiement continu ([détails](DevSecOps/CD.md))
+  * [ ] observabilité ([détails](DevSecOps/observabilite.md))
+  * [ ] sécurité ([détails](DevSecOps/securite.md))
+* [ ] Respect des référentiels
+  * [ ] audit d'accessibilité (cible conformité au RGAA = 100%)
+  * [ ] publication AIPD (RGPD)
+  * [ ] homologation de sécurité (RGS)
+=======
 <details>
 <summary><strong>Processus</strong></summary>
+>>>>>>> aaa9624ba58585537efc00b6b33fa493be57c17a
 
 * [ ] passage par le comité produit (validation des choix techniques et d'architecture)
 * [ ] identification et suivi des indicateurs de réussite
